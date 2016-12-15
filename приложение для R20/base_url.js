@@ -1,0 +1,1 @@
+var url = "http://r20.store/wp-content/plugins/mobile-friendly-app-builder-by-easytouch/";
